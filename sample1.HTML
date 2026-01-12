@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>Devops></title>
+</head>
+<body>
+<h1>Devops Assisgnment1 simulation exercise<h1>
+</body>
+</html>
